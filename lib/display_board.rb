@@ -5,7 +5,7 @@ board = ["   ", "|"]
 row = ["-----------"]
 board1 = ["   ", "|"]
 print board
-puts board1
+board1
 puts row
 print board
 print board1
