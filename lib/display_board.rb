@@ -4,8 +4,8 @@ puts "A Tic Tac Toe Board"
 board = ["   ", "|"]
 row = ["-----------"]
 board1 = ["   ", "|"]
-print board
-board1
+return board
+return board1
 puts row
 print board
 board1
