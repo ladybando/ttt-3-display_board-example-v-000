@@ -3,4 +3,6 @@ def display_board
 puts "A Tic Tac Toe Board"
 board = ["   ", "|","    ","|","   " ]
 row = ["-----------"]
+print board
+print row
 end
