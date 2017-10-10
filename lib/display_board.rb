@@ -3,10 +3,10 @@ def display_board
 puts "A Tic Tac Toe Board"
 board = ["   ", "|","    ","|","   " ]
 row = ["-----------"]
-print board
+puts board
 print row
-print board
+puts board
 print row
-print board
+puts board
 print row
 end
