@@ -7,7 +7,7 @@ board1 = ["   ", "|"]
 print board
 board1
 puts row
-print board
+p board
 print board1
 puts row
 print board
