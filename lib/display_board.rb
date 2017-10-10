@@ -3,7 +3,7 @@ def display_board
 puts "A Tic Tac Toe Board"
 board = ["   ", "|"]
 row = ["-----------"]
-
+board1 = ["   ", "|"]
 print board
 puts row
 print board
