@@ -7,10 +7,5 @@ board1 = ["| ", "   "]
 return board
 puts board1
 puts row
-print board
-print board1
-puts row
-print board
-print board1
-puts row
+
 end
