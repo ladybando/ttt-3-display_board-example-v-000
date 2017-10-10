@@ -5,4 +5,8 @@ board = ["   ", "|","    ","|","   " ]
 row = ["-----------"]
 print board
 puts row
+print board
+puts row
+print board
+puts row
 end
