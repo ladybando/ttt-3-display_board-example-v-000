@@ -3,6 +3,6 @@ def display_board
 puts "A Tic Tac Toe Board"
 cell = "   |   |   "
 row = "-----------"
-print cell
+puts cell
 puts row
 end
