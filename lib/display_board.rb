@@ -5,4 +5,8 @@ cell = "   |   |   "
 row = "-----------"
 puts cell
 puts row
+puts cell
+puts row
+puts cell
+puts row
 end
