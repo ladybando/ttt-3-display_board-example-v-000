@@ -17,5 +17,5 @@ puts row
 print cell
 print row1
 print cell
-print row1
+puts row1
 end
