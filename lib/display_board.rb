@@ -18,5 +18,4 @@ print cell
 print row1
 print cell
 puts row1
-puts row
 end
